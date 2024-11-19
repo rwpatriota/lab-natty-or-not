@@ -22,3 +22,4 @@ Libre Office (geração do PDF)
 ## Resultados
 
 Link para baixar o PDF: 
+https://github.com/rwpatriota/lab-natty-or-not/blob/main/e-book-rui-lopez.pdf
